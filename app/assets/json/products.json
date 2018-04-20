@@ -1,0 +1,22 @@
+{
+    "data":[
+          {
+            "id":"001",
+            "name":"TV",
+            "price":"$120",
+            "imgsrc":"http://www.lg.com/us/images/monitors/md05601731/gallery/medium01.jpg"
+          },
+          {
+            "id":"002",
+            "name":"Fridge",
+            "price":"$140",
+            "imgsrc":"http://www.lg.com/us/images/monitors/md05601731/gallery/medium01.jpg"
+          },
+          {
+            "id":"003",
+            "name":"Air Conditioner",
+            "price":"$200",
+            "imgsrc":"http://www.lg.com/us/images/monitors/md05601731/gallery/medium01.jpg"
+          }
+        ]
+}
